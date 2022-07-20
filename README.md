@@ -1,5 +1,8 @@
-Hi there, I'm LionSuzune 👋
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/103966803/180020974-e9530919-f456-4690-b565-3a43ba96a141.jpg" />
+</p> 
 
-<a href="https://github.com/LionSuzune"><img src="https://cardivo.vercel.app/api?name=Lion Suzune X&description=hi everyone, my name is Lion Suzune X you can call Lion, nice to meet you 🤗&image=https://telegra.ph/file/7c80db7cd166222214490.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=lionsuzunee_&github=LionSuzune&pattern=leaf&colorPattern=%23eaeaea" /><a> <br />
+• Halo semua aku uzui aku adalah pemilik ikawateam,jika mau join ke sya ya harus subs channel aku & join grup sya insyaallah aku akan respon kalo aku sempet :)
+
+</p> 
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6285795586847)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/lionsuzunee)
