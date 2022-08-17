@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/103966803/182872182-3a6ee4f0-124d-48a5-b630-c1962ee6d348.gif" />
+  <img src="https://user-images.githubusercontent.com/103966803/185171238-3204b9b4-4d7d-4c95-8b4c-a17b6c38dfbb.jpeg" />
 </p> 
 
 • Halo semua aku uzui aku adalah pemilik ikawateam,jika mau join ke sya ya harus subs channel aku & join grup sya insyaallah aku akan respon kalo aku sempet :)
