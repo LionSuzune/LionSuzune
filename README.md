@@ -15,7 +15,7 @@
 ------
 ### Mobile Legends 🎮
 <p align="center">
-  <img src="https://telegra.ph/0186298dc8a9499d67e06.mp4" />
+  <img src="https://user-images.githubusercontent.com/103966803/186783359-619d7a1a-e44f-46df-a0a4-bf2f9b162ff6.gif" />
 </p>
 
 ------
