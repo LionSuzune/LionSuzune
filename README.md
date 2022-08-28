@@ -7,8 +7,8 @@
 <p align="center">
 
 - 👤 My name is Uzui Michelle 
-- 💌 I am 22 years old 
-- 👨‍💻 I am not programmer
+- 💌 I am 22+ years old 
+- 👨‍💻 I am female
 
 </p>
 
