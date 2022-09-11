@@ -18,13 +18,15 @@
   <img src="https://user-images.githubusercontent.com/103966803/186783359-619d7a1a-e44f-46df-a0a4-bf2f9b162ff6.gif" />
 </p>
 
-## WAIFU GW
+## WAIFU GW Dia viekone & Maha 😜
 <p align="center">
   <img src="https://telegra.ph/file/858c2e7bfee11772c3105.jpg" />
 </p>
 <p align="center">
   <img src="https://telegra.ph/file/f446f16ba0671dd72bf70.jpg" />
 </p>
+
+
 ------
 ## Thanks To
 * [`IkawaTeam`](https://github.com/IkawaTeam)
