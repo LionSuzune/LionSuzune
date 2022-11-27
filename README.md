@@ -13,15 +13,10 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://instagram.com/fatdho"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/message/KX5ZGPPH2FMEC1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/m.fatdho"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/fatdho"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/badge/YouTube-fatih arridho-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ" /><br>
-  <a name=FatihArridho&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/fatiharridho"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCD_w05gKF5F_5BNPABShNyQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=fatiharridho&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=fatiharridho&color=green&style=flat-square&label=Profile+View"></a>
+  <a href="https://instagram.com/lionsuzune99"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/62887433094409"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a name=Uzui Michelle&label=VIEWS&style=flat-square&color=orange" />
+  <a href="https://github.com/LionSuzune"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 </p>
 
 ### My Waifu 😼
