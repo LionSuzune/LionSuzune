@@ -1,6 +1,6 @@
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
 <p align="center">
-  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
+  <img src="https://tenor.com/view/black-butler-ciel-smile-wink-anime-gif-6202171" />
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
   <a href="https://github.com/LionSuzune"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 </p>
 
-### My Waifu 😼
+### My Waifu ku kage no jitsuryokusha ni naritakute semua kecuali delta aku gak suka no 1 waifu 👇
 <p align="center">
-  <img src="https://telegra.ph/file/ee07cffd31ecbbea12bbf.png" />
+  <img src="https://telegra.ph/file/f882ad504fb404291edc2.jpg" />
 </p>
 
 ------
