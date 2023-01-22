@@ -19,9 +19,9 @@
   <a href="https://github.com/LionSuzune"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 </p>
 
-### My Waifu ku kage no jitsuryokusha ni naritakute semua kecuali delta aku gak suka no 1 waifu 👇
+### My waifu ku Asuna &  Langley no ambil👎🙅
 <p align="center">
-  <img src="https://telegra.ph/file/f882ad504fb404291edc2.jpg" />
+  <img src="https://telegra.ph/file/43eb1cb87815021c2b023.jpg
 </p>
 
 ------
