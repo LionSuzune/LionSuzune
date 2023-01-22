@@ -21,7 +21,7 @@
 
 ### My waifu ku Asuna &  Langley no ambil👎🙅
 <p align="center">
-  <img src="https://telegra.ph/file/43eb1cb87815021c2b023.jpg
+  <img src="https://telegra.ph/file/43eb1cb87815021c2b023.jpg"
 </p>
 
 ------
