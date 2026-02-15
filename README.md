@@ -1,7 +1,7 @@
 # 💋 R
 
 <p align="center">
-  <img src="https://tenor.com/kXXFCyFqE7b.gif" width="250"/>
+  <img src="https://tenor.com/id/view/wuthering-waves-aemeath-amy-wuwa-synchronist-gif-9067120347532551603" width="250"/>
 </p>
 
 > こんにちは、リナです。初めまして (Halo namaku rina salam kenal) 
