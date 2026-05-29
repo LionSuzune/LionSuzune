@@ -1,7 +1,7 @@
 # 💋 R
 
 <p align="center">
-  <img src="https://j.top4top.io/m_3801uygvr1.mp4" width="250"/>
+  <img src="https://aliceecdn.vercel.app/storage/image-bbd32f.gif" width="250"/>
 </p>
 
 > こんにちは、リナです。初めまして (Halo namaku rina salam kenal) 
