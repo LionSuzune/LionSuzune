@@ -53,27 +53,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://b.top4top.io/p_3801pdz0y1.jpg" alt="BASE-SIMPLE API Banner" width="100%" style="border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&height=40&lines=hai+semua+welcome+ke+github%3A+Izuku-mii;Di+sini+ada+script+bot+atau+dll" alt="Console Log">
-
-<br/>
-
-<a href="https://v2.izuku-mii.my.id" target="_blank">
-  <img src="https://img.shields.io/badge/WEB_API-v2.izuku--mii.my.id-2dbd7e?style=flat-square&logo=express&logoColor=060d0a" alt="Web">
-</a>
-<a href="https://tiktok.com/@keigo_f_fujimoto_" target="_blank">
-  <img src="https://img.shields.io/badge/TIKTOK-%40keigo__fujimoto__-10b981?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok">
-</a>
-
-</div>
-
----
-
 ## 🎵 PLAYLIST & MUSIC FAVORIT
 
 Klik judul lagu di bawah ini untuk langsung memutar videonya di **YouTube**:
